@@ -1,0 +1,72 @@
+[
+    {
+      "question": "How many hours of sleep do you typically get per night?",
+      "answerOptions": [
+        {"text": "Less than 6 hours", "score": 0},
+        {"text": "6-7 hours", "score": 1},
+        {"text": "7-8 hours", "score": 2},
+        {"text": "More than 8 hours", "score": 1}
+      ]
+    },
+    {
+      "question": "How often do you engage in physical exercise?",
+      "answerOptions": [
+        {"text": "Rarely or never", "score": 0},
+        {"text": "1-2 times per week", "score": 1},
+        {"text": "3-4 times per week", "score": 2},
+        {"text": "5 or more times per week", "score": 3}
+      ]
+    },
+    {
+      "question": "How often do you consume fruits and vegetables?",
+      "answerOptions": [
+        {"text": "Rarely or never", "score": 0},
+        {"text": "Once per day", "score": 1},
+        {"text": "2-3 times per day", "score": 2},
+        {"text": "More than 3 times per day", "score": 3}
+      ]
+    },
+    {
+      "question": "Do you smoke or use tobacco products?",
+      "answerOptions": [
+        {"text": "Yes, regularly", "score": 0},
+        {"text": "Yes, occasionally", "score": 1},
+        {"text": "No, I don't smoke or use tobacco products", "score": 2}
+      ]
+    },
+    {
+      "question": "How often do you consume sugary or processed foods?",
+      "answerOptions": [
+        {"text": "Daily", "score": 0},
+        {"text": "2-3 times per week", "score": 1},
+        {"text": "Rarely or on special occasions", "score": 2}
+      ]
+    },
+    {
+      "question": "How often do you experience stress?",
+      "answerOptions": [
+        {"text": "Almost every day", "score": 0},
+        {"text": "Several times per week", "score": 1},
+        {"text": "Once a week or less", "score": 2},
+        {"text": "Rarely or never", "score": 3}
+      ]
+    },
+    {
+      "question": "How many hours do you spend using electronic devices (e.g., phone, computer) per day?",
+      "answerOptions": [
+        {"text": "Less than 2 hours", "score": 2},
+        {"text": "2-4 hours", "score": 1},
+        {"text": "More than 4 hours", "score": 0}
+      ]
+    },
+    {
+      "question": "How often do you engage in social activities or spend time with friends/family?",
+      "answerOptions": [
+        {"text": "Rarely or never", "score": 0},
+        {"text": "Once per week", "score": 1},
+        {"text": "2-3 times per week", "score": 2},
+        {"text": "Almost daily", "score": 3}
+      ]
+    }
+ 
+  ]
